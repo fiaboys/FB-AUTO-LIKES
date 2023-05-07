@@ -1,2 +1,7 @@
-# FB-AUTO-LIKES
-FB - สคิปปั้มไลค์ฟรีสร้างขึ้นเพื่อการศึกษา กดติดตามช่องผมด้วย
+# How to usage
+   วิธีการรันสคริปต์ :
+      ```python FBLikers.py```
+
+# Module in Script
+  ```pip install bs4``` and
+  ```pip install requests```
